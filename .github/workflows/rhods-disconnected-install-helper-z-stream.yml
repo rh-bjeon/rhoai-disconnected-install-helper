@@ -32,4 +32,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
           message: "Update rhoai-disconnected-helper-z-stream.sh script"
-          repository: red-hat-data-services/rhoai-disconnected-install-helper
+          repository: rh-bjeon/rhoai-disconnected-install-helper
